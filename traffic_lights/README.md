@@ -38,7 +38,7 @@ Note: use the phases tuple as a "knowledge base" for your whole code. The code h
 If traffic lights in your home country work in a different way, you can implement your native scheme, but the only change you're allowed to make is to modify the phases tuple - the code itself must remain the same.
 
 ## My results:
-I added more phases and the ablity to add more lights (controled by the first arugement of make_lights(3, [list of colours]) on line 50) although on my screen I can't fit more than 4, although you can change the size of the lights on line 38.  
+I added more phases and the ablity to add more lights (controled by the first arugement of make_lights(3, [list of colours]) on line 50), although on my screen I can't fit more than 4 but you can change the size of the lights on line 38.  
 Red:  
 ![Red](./images/red.png)  
 Red and yellow:  
