@@ -42,4 +42,4 @@ Initial view:
 Part way:  
 ![partaily complete](./images/partial.png)  
 Finished:  
-![finished view](./images/finised.png)  
+![finished view](./images/finished.png)  
