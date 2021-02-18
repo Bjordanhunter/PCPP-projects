@@ -1,7 +1,7 @@
 # The clicker
 This is a simple perseption and memory game I made as part of my PCPP coruse (PCPP1 3/5 GUI 3.1.1.4 on edube.org) focussing on GUI using the tkinter libary.
 
-## Breif:
+## Brief:
 (From edube.org- https://edube.org/learn/pcpp1-4-gui-programming/lab-the-clicker)
 ### Objectives
 Learn practical skills related to:
