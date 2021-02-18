@@ -24,23 +24,23 @@ Don't forget to protect your code from dividing by zero, and use the grid manage
 
 ### my results:
 Inital view of calculator:  
-![inital view](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/inital.png)  
+![inital view](./images/inital.png)  
 
 #### Basic operations:  
 Addition:  
-![addition: 6+4=10.0](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/addition.png)  
+![addition: 6+4=10.0](./images/addition.png)  
 Subtraction:  
-![subtraction: 6-4=2.0](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/subtration.png)  
+![subtraction: 6-4=2.0](./images/subtration.png)  
 Multiplication:  
-![multiplication: 6*4=24.0](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/multiplication.png)  
+![multiplication: 6*4=24.0](./images/multiplication.png)  
 Division:  
-![division: 6/4=1.5](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/division.png)  
+![division: 6/4=1.5](./images/division.png)  
 
 #### Catching invalid inputs:  
 Zero division:  
-![zero division error message](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/zero%20division%20error.png)  
+![zero division error message](./images/zero%20division%20error.png)  
 Characters not numbers:  
-![letters inputed error message](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/letter%20error.png)  
+![letters inputed error message](./images/letter%20error.png)  
 Empty inputs:  
-![empty inputs error message](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/empty%20error.png)  
+![empty inputs error message](./images/empty%20error.png)  
 
