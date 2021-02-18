@@ -44,11 +44,11 @@ Red:
 Red and yellow:  
 ![Red and yellow](./images/red_yellow.png)  
 Green:  
-![Green](./images/green.png)
+![Green](./images/green.png)  
 Yellow:  
 ![Yellow](./images/yellow.png)  
-None (added myself):  
+None (I added this one myself):  
 ![None](./images/none.png)  
-All (added this one aswell):  
+All (I added this one aswell):  
 ![All](./images/all.png)
 
