@@ -37,6 +37,7 @@ This is how the board looks when the game is finished:
 Hint: consider using the `<Button-1>` event instead of setting the command button property - it may simplify your code.  
 
 ## My results: 
+I added a counter to keep track of your progress and a quit button to even out the other side.  
 Initial view:  
 ![initial view](./images/initial.png)  
 Part way:  
