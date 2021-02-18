@@ -13,7 +13,7 @@ Learn practical skills related to:
 #### Scenario
 You need a calculator. A very simple and very specific calculator. Look at the picture - it contains two fields that the user can use to enter arguments, a radio button to select the operation to perform, and a button initiating the evaluation:
 
-![Calculator - reference. cridit:edube.org](https://edube.org/uploads/media/default/0001/01/5c21f12519840cce2abf7efad10dbfcc026b8fde.png)
+![Calculator - reference. cridit:edube.org](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/intended.png)
 
 
 We expect the calculator to behave in the following way:
@@ -23,15 +23,24 @@ We expect the calculator to behave in the following way:
 Don't forget to protect your code from dividing by zero, and use the grid manager to compose the window interior.
 
 ### my results:
-Inital view of calculator:
-![inital view]()
-Basic operations:
-![addition: 6+4=10.0]()
-![subtraction: 6-4=2.0]()
-![multiplication: 6*4=24.0]()
-![division: 6/4=1.5]()
-Catching invalid input:
-![zero division error message]()
-![letters inputed error message]()
-![empty inputs error message]()
+Inital view of calculator:  
+![inital view](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/inital.png)  
+
+#### Basic operations:  
+Addition:  
+![addition: 6+4=10.0](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/addition.png)  
+Subtraction:  
+![subtraction: 6-4=2.0](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/subtration.png)  
+Multiplication:  
+![multiplication: 6*4=24.0](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/multiplication.png)  
+Division:  
+![division: 6/4=1.5](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/division.png)  
+
+#### Catching invalid inputs:  
+Zero division:  
+![zero division error message](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/zero%20division%20error.png)  
+Characters not numbers:  
+![letters inputed error message](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/letter%20error.png)  
+Empty inputs:  
+![empty inputs error message](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/empty%20error.png)  
 
