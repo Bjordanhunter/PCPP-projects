@@ -35,15 +35,16 @@ lights = []
 def make_lights(numOfLights:int, colours:list):
     """makes specified number of lights on canvas with each default colour supplied by the colours list."""
     global lights
-    canvas.config(height=numOfLights*200+10)
+    sizeOfLights = 200 # diamiter of light in px
+    canvas.config(width=sizeOfLights+10, height=numOfLights*sizeOfLights+10)
     for i in range(numOfLights):
-        lights.append((canvas.create_oval(10,(i*200)+10, 200,(i*200)+200, width=4, outline="black"),colours[i]))
+        lights.append((canvas.create_oval(10,(i*sizeOfLights)+10, sizeOfLights,(i*sizeOfLights)+sizeOfLights, width=4, outline="black"),colours[i]))
 
 
 #gui setup and layout
 window = tk.Tk()
 window.title("Traffic Lights")
-canvas = tk.Canvas(window, width=210, height=810, bg="gray30")
+canvas = tk.Canvas(window, bg="gray30")
 
 # makes 3 lights with default colours listed **will print ignorable error as phases are five items long** you can set it to UP TO 5 without also changing ‘phases’ but that doesn't fit my screen.
 make_lights(3,["red","yellow","green","blue","pink"])
