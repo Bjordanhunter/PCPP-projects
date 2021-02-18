@@ -13,7 +13,7 @@ Learn practical skills related to:
 #### Scenario
 You need a calculator. A very simple and very specific calculator. Look at the picture - it contains two fields that the user can use to enter arguments, a radio button to select the operation to perform, and a button initiating the evaluation:
 
-![Calculator - reference. cridit:edube.org](https://github.com/Bjordanhunter/PCPP-projects/blob/main/calculator/images/intended.png)
+![Calculator - reference. cridit:edube.org](/images/intended.png)
 
 
 We expect the calculator to behave in the following way:
