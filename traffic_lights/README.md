@@ -22,10 +22,10 @@ As you see, there are four different phases:
 - the yellow light is lit.
 Your task is to implement a model which will show how such a traffic signal works. The model should look as follows:
 
-![Red](./images/intended_red)
-![Red-Yellow](./images/intended_red_yellow)
-![Green](./images/intended_green)
-![Yellow](./images/intended_yellow)
+![Red](./images/intended_red.png)
+![Red-Yellow](./images/intended_red_yellow.png)
+![Green](./images/intended_green.png)
+![Yellow](./images/intended_yellow.png)
 
 
 As you see, the model is built of three widgets:
@@ -40,15 +40,15 @@ If traffic lights in your home country work in a different way, you can implemen
 ## My results:
 I added more phases and the ablity to add more lights (controled by the first arugement of make_lights(3, [list of colours]) on line 50) although on my screen I can't fit more than 4, although you can change the size of the lights on line 38.  
 Red:  
-![Red](./images/red)  
+![Red](./images/red.png)  
 Red and yellow:  
-![Red and yellow](./images/red_yellow)  
+![Red and yellow](./images/red_yellow.png)  
 Green:  
-![Green](./images/green)
+![Green](./images/green.png)
 Yellow:  
-![Yellow](./images/yellow)  
+![Yellow](./images/yellow.png)  
 None (added myself):  
-![None](./images/none)  
+![None](./images/none.png)  
 All (added this one aswell):  
-![All](./images/all)
+![All](./images/all.png)
 
