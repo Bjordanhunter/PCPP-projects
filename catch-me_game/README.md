@@ -1,7 +1,7 @@
 # Catch me if you can!
 This is a simple mouse game I made as part of my PCPP coruse (PCPP1 3/5 GUI 3.1.1.3 on edube.org) focussing on GUI using the tkinter libary.  
 
-## Breif:
+## Brief:
 (From edube.org- https://edube.org/learn/pcpp1-4-gui-programming/lab-catch-me-if-you-can)
 ### Objectives
 Learn practical skills related to:
