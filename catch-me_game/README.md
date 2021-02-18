@@ -19,12 +19,12 @@ Write a simple game - an infinite game which humans cannot win. Here are the rul
 
 Here is a sample picture for your reference:  
 
-![Catch me if you can - reference](https://github.com/Bjordanhunter/PCPP-projects/blob/main/catch-me_game/images/intended.png)  
+![Catch me if you can - reference](./images/intended.png)  
 
 Use the place() method to move the button, and the bind() method to assign your own callback.
 
 ## My results:
 Initial view:  
-![inital view](https://github.com/Bjordanhunter/PCPP-projects/blob/main/catch-me_game/images/initial.png)  
+![inital view](./images/initial.png)  
 Gif of opperation:  
-![game in action](https://github.com/Bjordanhunter/PCPP-projects/blob/main/catch-me_game/images/in_action.gif)
+![game in action](./images/in_action.gif)
