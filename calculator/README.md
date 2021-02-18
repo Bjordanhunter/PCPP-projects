@@ -1,7 +1,7 @@
 # A very simple calculator
 
 This is a very simple calculator I made as part of my PCPP coruse (PCPP1 3/5 GUI 3.1.1.2 on edube.org) focussing on GUI using the tkinter libary.
-### Breif:
+### Brief:
 (From edube.org- https://edube.org/learn/pcpp1-4-gui-programming/lab-a-very-simple-calculator)
 #### Objectives
 Learn practical skills related to:
