@@ -21,7 +21,9 @@ The screenshots we present below are just a suggestion. You can design the UI in
 
 See how we've implemented our GUI (initial state, presenting a result, and handling zero-division attempt) - do you like it?
 
-![Calculator at initial state](./images/intended_initial.png) ![Calculator presenting a result](./images/intended_result.png) ![Calculator after zero-divide attempt](./images/intended_error.png)
+![Calculator at initial state](./images/intended_initial.png) 
+![Calculator presenting a result](./images/intended_result.png) 
+![Calculator after zero-divide attempt](./images/intended_error.png)
 
 Here are some of our assumptions:
 
@@ -65,7 +67,7 @@ Mulitiplcation:
 Division whole number:  
 ![Division whole number 25](./images/div_whole_1.png)
 ![Division whole number /5](./images/div_whole_2.png)
-![Division whole number =5](./images/div_whole_.3png)  
+![Division whole number =5](./images/div_whole_3.png)  
 Division decimal number:  
 ![Division decimal number 1](./images/div_deci_1.png)
 ![Division decimal number /4](./images/div_deci_2.png)
