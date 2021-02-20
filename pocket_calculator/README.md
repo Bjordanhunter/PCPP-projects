@@ -69,7 +69,9 @@ Backspace:
 ![BackSpace 1](./images/backspace_1.png)
 ![BackSpace 2](./images/backspace_2.png)  
 Zero division error:  
-![Zero division error](./images/zero_div_error.png)  
+![Zero division error](./images/zero_div_error_1.png)
+![Zero division error](./images/zero_div_error_2.png)
+![Zero division error](./images/zero_div_error_3.png)  
 Length error:  
 ![Length error 1](./images/length_error_1.png)
 ![Length error 2](./images/length_error_2.png)
