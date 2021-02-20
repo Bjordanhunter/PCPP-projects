@@ -68,7 +68,7 @@ Division whole number:
 ![Division whole number 25](./images/div_whole_1.png)
 ![Division whole number /5](./images/div_whole_2.png)
 ![Division whole number =5](./images/div_whole_3.png)  
-Division decimal number:  
-![Division decimal number 1](./images/div_deci_1.png)
-![Division decimal number /4](./images/div_deci_2.png)
-![Division decimal number =0.25](./images/div_deci_3.png)  
+Division negative decimal number:  
+![Division decimal number -1](./images/div_deci_1.png)
+![Division decimal number /3](./images/div_deci_2.png)
+![Division decimal number =-3.3333333](./images/div_deci_3.png)  

@@ -45,10 +45,20 @@ def make_and_place_operation_buttons():
     btn.grid(row=4,column=3)
 
 def trim_after_decimal(x):
-    """returns an int or a float depending on if x as significant digits after the decimal point (e.g. 1.1 vs 1.0)"""
+    """returns int or float trimed down with string formating to keep as many significant digits after decimal as posible, 
+    alwoys at least 1 significant digit and always 10
+    e.g. 1/3=0.33333333, 10000000/3=33333333.3, -1/3=-3.3333333
+    """
     if x == errorMessage: return x
     x = float(x)
-    return int(x) if x == int(x) else x
+    if x == int(x):
+        return int(x)  
+    else:
+
+        x = f"{x:.9g}"
+        x = x if len(x) <= 10 else f"{float(x):.8g}" # edge case of 0.x nums (weird)
+        x = x if len(x) <= 10 else f"{float(x):.7g}" # accounting for minus sign
+        return float(x)
 
 def run_bound_function(e):
     """gets and runs the function bound to a given event widget and passes it the event, simulating being clicked.
