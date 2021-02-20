@@ -49,24 +49,24 @@ Chain subtraction (10-9-8=-7):
 ![Chain subtraction -9](./images/chain_sub_2.png)
 ![Chain subtraction -8](./images/chain_sub_3.png)
 ![Chain subtraction =-7](./images/chain_sub_4.png)  
-BackSpace:  
-![BackSpace 1](./images/backSpace_1.png)
-![BackSpace 2](./images/backSpace_2.png)  
+Backspace:  
+![BackSpace 1](./images/backspace_1.png)
+![BackSpace 2](./images/backspace_2.png)  
 Zero division error:  
-![Zero division error](/images/zero_div_error.png)  
+![Zero division error](./images/zero_div_error.png)  
 Length error:  
-![Length error 1](/images/length_error_1.png)
-![Length error 2](/images/length_error_2.png)
-![Length error 3](/images/length_error_3.png)  
+![Length error 1](./images/length_error_1.png)
+![Length error 2](./images/length_error_2.png)
+![Length error 3](./images/length_error_3.png)  
 Mulitiplcation:  
-![Mulitiplcation 5](/images/multi_1.png)
-![Mulitiplcation *3](/images/multi_2.png)
-![Mulitiplcation =15](/images/multi_3.png)  
+![Mulitiplcation 5](./images/multi_1.png)
+![Mulitiplcation *3](./images/multi_2.png)
+![Mulitiplcation =15](./images/multi_3.png)  
 Division whole number:  
-![Division whole number 25](/images/div_whole_1.png)
-![Division whole number /5](/images/div_whole_2.png)
-![Division whole number =5](/images/div_whole_.3png)  
+![Division whole number 25](./images/div_whole_1.png)
+![Division whole number /5](./images/div_whole_2.png)
+![Division whole number =5](./images/div_whole_.3png)  
 Division decimal number:  
-![Division decimal number 1](/images/div_deci_1.png)
-![Division decimal number /4](/images/div_deci_2.png)
-![Division decimal number =0.25](/images/div_deci_3.png)  
+![Division decimal number 1](./images/div_deci_1.png)
+![Division decimal number /4](./images/div_deci_2.png)
+![Division decimal number =0.25](./images/div_deci_3.png)  
