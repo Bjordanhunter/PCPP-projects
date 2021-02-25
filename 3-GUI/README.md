@@ -1,0 +1,1 @@
+These are some projects I made as part of my PCPP course (PCPP1 3/5 GUI on edube.org) focussing on learning how to create Graphical User Interfaces (GUIs) in Python using the tkinter package.
